@@ -1,0 +1,52 @@
+.purple-color { 
+    color: blue;
+}
+body {
+    font-family: san-sarif;
+    color: #777777;
+    line-height: 26px;
+    
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+
+.side-img {
+    width: 50%
+   
+}
+.primary-btn{
+    color: #fff;
+    background-color: blue;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+h1 { 
+    font-size : 2.5em;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.bird{
+    padding-top: 20px;
+}
+.expierence{
+    padding: 30px;
+    margin: 30ox;
+    background-color: pirple;
+    border-radius: 20px;
+}
+.expirence-item{
+    padding: 20 px;
+    border-left: 1px solid red ;
+}
+
+
+
+
+
+
